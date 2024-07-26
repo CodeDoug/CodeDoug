@@ -26,7 +26,7 @@
 <hr>
 
 <div> 
-   <a href="https://eudouglas.github.io/dougfolio/#home" alt="Doug-Portfolio" target="_blank"><img   src="https://img.shields.io/badge/Portfolio-6225E6?style=for-the-badge&logo=windows%20terminal&logoColor=white" target="_blank"></a>
+   <a href="https://codedoug.github.io/dougfolio/#sobre" alt="Doug-Portfolio" target="_blank"><img   src="https://img.shields.io/badge/Portfolio-6225E6?style=for-the-badge&logo=windows%20terminal&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglas-sarmento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:devdoug.it@gmail.com" alt="Doug-Gmail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
